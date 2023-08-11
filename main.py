@@ -1,26 +1,25 @@
-# print("Hello")  
+print("Hello")  
 
 
 
+# Control flow
 
-# flow Control 
-# name = "Ian" 
+name = "Ian" 
 
-# if name == "boy": 
-#     print("Hello Ian!")
-# else: 
-#     print("intruder alert!") 
+if name == "boy": 
+    print("Hello Ian!")
+else: 
+    print("intruder alert!") 
 
 
-# print("Enter name") 
-# name = input()
+print("Enter name") 
+name = input()
 
-# if name: 
-#     print("Thank you for entering your name")
-# else: 
-#     print("you did not enter name") 
+if name: 
+    print("Thank you for entering your name")
+else: 
+    print("you did not enter name") 
 
-    # while loop 
 
 i = 0 
 
